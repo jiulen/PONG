@@ -1,0 +1,33 @@
+﻿  Application.cpp
+  SceneA2.cpp
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(227,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(238,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(263,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(268,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(275,63): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(296,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(304,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(340,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(488,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(488,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(562,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(618,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(619,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(620,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(625,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(626,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(627,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(678,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(679,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(680,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(685,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(686,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(687,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(717,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(718,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(723,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\avoid\source\repos\DM2212_Physics\Physics\Source\SceneA2.cpp(982,79): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Physics.vcxproj -> C:\Users\avoid\source\repos\DM2212_Physics\Debug\Physics.exe
